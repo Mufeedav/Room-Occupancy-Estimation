@@ -78,14 +78,13 @@ This project predicts room occupancy counts using various environmental sensor d
 - Temperature, Light, CO₂,and PIR sensors were strong predictors of occupancy.
 - Ensemble models performed best, especially **Random Forest** and **Gradient Boosting**.
 - Simple models like Linear Regression struggled with non-linearity in the data.
-- Compare with deep learning models like DNN or LSTM
 ---
 
 ## 🚀 Future Work
 
 - Deploy the best model using Flask/Django for real-time prediction
 - Integrate with IoT devices for live room monitoring
-
+- Explore deep learning models for sequential data (e.g., LSTM)
 ---
 
 ## 🙋‍♀️ Author
