@@ -12,7 +12,7 @@ This project predicts room occupancy counts using various environmental sensor d
 - **Features:**
   - Environmental Sensors: Temperature, Light, CO₂, Sound
   - Motion Detection: PIR Sensors
-  - Temporal Info: Datetime, Hour, Day
+  - Temporal Info: Date,time
 - **Target Variable:** `Room_Occupancy_Count`
 
 ---
